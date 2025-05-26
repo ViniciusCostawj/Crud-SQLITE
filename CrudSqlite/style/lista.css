@@ -1,0 +1,39 @@
+.tarefa{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-1, .link-2{
+    border: 1px solid #2cc4e2;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+
+.link-1:hover, .link-2:hover{
+    border: 1px solid #ff0000;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: rgb(106, 239, 241);
+}
+
+.strikethrough {
+    text-decoration: line-through;
+    color: grey;
+}
+
+a{
+    color: #2ccde2;
+}
+
+i:hover{
+    color: #fff;
+}
