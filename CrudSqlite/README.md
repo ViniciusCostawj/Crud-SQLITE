@@ -40,4 +40,5 @@ Este é um sistema simples de gerenciamento de tarefas pessoais, desenvolvido co
 1. **Clone ou acesse o projeto** no seu ambiente de desenvolvimento:
 
    ```bash
-   git clone https://github.com/ViniciusCostawj/Crud-SQLITE/tree/main/CrudSqlite
+   git clone https://github.com/ViniciusCostawj/Crud-SQLITE/
+
